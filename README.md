@@ -32,6 +32,3 @@ Throughout this project, I practiced:
 🌱 This project represents my first month of learning web development. It is more than just a clone project—it's a milestone that reflects my dedication, consistency, and passion for coding.
 
 ⭐ Every line of code in this project helped me understand web development better and motivated me to keep learning and building.
-
-This feels more authentic for a first GitHub project: focused on **what you learned, the challenges you faced, and your growth**, without sounding overly formal or AI-generated.
-
